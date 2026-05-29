@@ -37,7 +37,6 @@ public class TransactionModel {
     @NotBlank
     private String type;
 
-    @NotNull
     private BigDecimal total;
 
 }
